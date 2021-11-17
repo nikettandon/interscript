@@ -1,8 +1,9 @@
 # Interscript
 
+_The Interscript dataset contains interactive user feedback on a T5-11B model generated scripts._
+
 ![overview](res/running-example.jpg)
 
-_The Interscript dataset contains interactive user feedback on a T5 model generated scripts._
 
 ---
 ## Dataset
