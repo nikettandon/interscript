@@ -55,7 +55,14 @@ Metadata contains additional information about the sample. Some important fields
 
 
 ----
-## Amazon Mechanical Turk Template
+## Data collection process
+
+- We use Amazon Mechanical Turk to collect feedback on erroneous scripts from users.
+- An overview of the process is captured in the following figure:
+
+![datacollection](res/data-collection-overview.jpg)
+
+### Amazon Mechanical Turk Template
 
 - [turk_template.html](turk_template.html) contains the template for Amazon Mechanical Turk HITs.
 
