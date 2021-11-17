@@ -5,9 +5,9 @@
 _The Interscript dataset contains interactive user feedback on a T5 model generated scripts._
 
 ---
-## Overview
+## Dataset
 
-- [data.jsonl](data.jsonl) contains the data in a JSONL format. The file contains 8466 samples, one per line. Every sample is a JSON object with the following fields:
+- [data.jsonl](data.jsonl) contains the data in a JSONL format. The file contains **8466** samples, one sample per line. Every sample is a JSON object with the following fields:
 
 ```json
  {
