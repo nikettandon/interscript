@@ -57,5 +57,5 @@ Metadata contains additional information about the sample. Some important fields
 ----
 ## Amazon Mechanical Turk Template
 
-- [turk_template.json](turk_template.json) contains the template for Amazon Mechanical Turk HITs.
+- [turk_template.html](turk_template.html) contains the template for Amazon Mechanical Turk HITs.
 
